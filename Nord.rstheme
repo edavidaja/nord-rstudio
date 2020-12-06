@@ -792,3 +792,10 @@
    border: none
 }
 
+.ace_paren_color_0 { color: #ebcb8b !important } /* nord13 */
+.ace_paren_color_1 { color: #e5e9f0 !important } /* nord5  */
+.ace_paren_color_2 { color: #d08770 !important } /* nord12 */
+.ace_paren_color_3 { color: #eceff4 !important } /* nord6  */
+.ace_paren_color_4 { color: #88c0d0 !important } /* nord8  */
+.ace_paren_color_5 { color: #bf616a !important } /* nord11 */
+.ace_paren_color_6 { color: #d8dee9 !important } /* nord4  */
