@@ -141,8 +141,7 @@
 }
 
 .ace_comment {
-  color: #616e88;
-
+  color: #97a1b5;
 }
 
 .ace_variable {
