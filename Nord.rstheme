@@ -21,6 +21,15 @@
   color: #d8dee9;
 }
 
+.normal-mode .ace_cursor {
+
+    border: 0!important;
+
+    background-color: #d8dee9;
+
+    opacity: 0.5;
+}
+
 .ace_marker-layer .ace_selection {
   background: rgba(67, 76, 94, 0.80);
 }
